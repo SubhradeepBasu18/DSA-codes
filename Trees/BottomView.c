@@ -1,3 +1,5 @@
+/*Logic is same as of Top View, the only difference is the node is not checked before 
+adding to the map*/
 #include <stdio.h>
 #include <stdlib.h>
 
